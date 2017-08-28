@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<employees_info><item0><id>574daa379545e9af101c2731</id><isOnline>1</isOnline><salary>1191.57</salary><age>63</age><position>developer</position><name>Foley Day</name><gender>male</gender><email>foleyday@fanfare.com</email><phone>+0511 (895) 577-2157</phone><address>850 Clara Street, Westmoreland, Kansas, 6963</address><skills><item0><skill>Python</skill></item0><item1><skill>CSS</skill></item1><item2><skill>C#</skill></item2><item3><skill>JS</skill></item3><item4><skill>Lisp</skill></item4></skills></item0></employees_info>

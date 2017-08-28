@@ -60,10 +60,10 @@
                     
                     <table class="table">
                       <tr>
-                        <th>NAME</th>
-                        <th>EMAIL</th>
-                        <th>POSITION</th>
-                        <th>SALARY</th>
+                        <th>EMPLEADO</th>
+                        <th>CORREO</th>
+                        <th>PUESTO</th>
+                        <th>SALARIO</th>
                       </tr>
                       @foreach ($data as $key)
                           <tr>
